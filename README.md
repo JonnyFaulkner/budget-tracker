@@ -33,6 +33,6 @@ A budget tracking application.
 added offline functionality
 
 # Links
-[Github](https://github.com/JonnyFaulkner/budget-tracker)
+[Github-Repo](https://github.com/JonnyFaulkner/budget-tracker)
 [Heroku](https://secret-oasis-09073.herokuapp.com/index.html)
 
