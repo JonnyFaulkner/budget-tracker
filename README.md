@@ -27,3 +27,11 @@ A budget tracking application.
 * Add as many transactions as needed. (even works offline)
 ![transactions](screenshots/transactions.png)
 
+# Contributing
+
+* Jonathan Faulkner
+added offline functionality
+
+# Links
+[Github](https://github.com/JonnyFaulkner/budget-tracker)
+[Live-Heroku](https://secret-oasis-09073.herokuapp.com/index.html)
