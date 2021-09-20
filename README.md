@@ -12,7 +12,7 @@ A budget tracking application.
 ![install-for-windows](screenshots/install.png)
 
 * To add a transaction simply add the name of the transaction.
-![transaction-name](screenshots/trasaction-name.png)
+![transaction-name](screenshots/transaction-name.png)
 
 * Then add the transaction amount.
 ![transaction-amount](screenshots/transaction-amount.png)
