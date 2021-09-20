@@ -34,4 +34,5 @@ added offline functionality
 
 # Links
 [Github](https://github.com/JonnyFaulkner/budget-tracker)
-[Live-Heroku](https://secret-oasis-09073.herokuapp.com/index.html)
+[Heroku](https://secret-oasis-09073.herokuapp.com/index.html)
+
